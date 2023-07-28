@@ -1,36 +1,20 @@
-# git-study
+中文简体|[English](./README.en.md)
 
-#### Description
-git学习
+<div align="center">
+	<a href="https://gitee.com/gitlystudy/opencv.git">
+	<img src="https://foruda.gitee.com/avatar/1690360352320899582/11079075_luo_yong_gitee_1690360352.png!avatar100" alt="Simple Icons" >
+	</a>
+<p align="center">
+    python program based on OpenCV, suitable for computer vision data acquisition, real-time video frame collection, etc.
+</p>
+</div>
 
-#### Software Architecture
-Software architecture description
+## About the author
+Luo Yan, an ordinary code enthusiast；
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Github：https://gitee.com/gitlystudy
 
 
-#### Gitee Feature
+<h2 align="center">Project use</h2>
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### Look for faces and eyes in the video
