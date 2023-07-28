@@ -1,4 +1,4 @@
-中文简体|[English](./README.en.md)
+[中文简体](./README.md)|English
 
 <div align="center">
 	<a href="https://gitee.com/gitlystudy/opencv.git">
