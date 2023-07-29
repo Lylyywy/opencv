@@ -19,9 +19,9 @@ def face_detect_demo(img):
         for (x, y, w, h) in eyes:
             cv.rectangle(roi_img, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
-        mouths = mouth.detectMultiScale(roi_img, 1.1, 3, 0, (60, 60), (100, 100))
-        for (x, y, w, h) in mouths:
-            cv.rectangle(roi_img, (x, y), (x + w, y + h), (255, 0, 0), 2)
+        # mouths = mouth.detectMultiScale(roi_img, 1.1, 3, 0, (60, 60), (100, 100))
+        # for (x, y, w, h) in mouths:
+        #     cv.rectangle(roi_img, (x, y), (x + w, y + h), (255, 0, 0), 2)
 
     cv.imshow("result", img)
 
