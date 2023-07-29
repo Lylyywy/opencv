@@ -34,3 +34,7 @@ tep/
 
 #rebel
 #rebel.xml*
+
+###自定义###
+/image
+/date
