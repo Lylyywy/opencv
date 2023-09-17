@@ -2,7 +2,7 @@
 import cv2 as cv
 
 # 读取图片
-img = cv.imread("text1.jpg")
+img = cv.imread("text2.jpg")
 # 显示图片
 cv.imshow("read.img", img)
 # 等待
