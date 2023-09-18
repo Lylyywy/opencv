@@ -12,7 +12,8 @@
 ## About the author
 Luo Yan, an ordinary code enthusiast；
 
-Github：https://gitee.com/gitlystudy
+Gitee: https://gitee.com/gitlystudy
+Github: https://github.com/Lylyywy/opencv.git
 
 
 <h2 align="center">Project use</h2>
