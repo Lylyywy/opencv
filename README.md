@@ -15,7 +15,8 @@
 ## 作者简介
 罗岩, 一位平平无奇的代码爱好者；
 
-Github：https://gitee.com/gitlystudy
+Gitee: https://gitee.com/gitlystudy
+Github: https://github.com/Lylyywy/opencv.git
 
 
 <h2 align="center">项目用途</h2>
