@@ -13,6 +13,7 @@ def face_detect_demo():
     for x, y, w, h in face:
         cv.rectangle(img, (x, y, w, h), color=(0, 0, 255), thickness=1)
     cv.imshow("result", img)
+    cv.imwrite("result1_text1.jpg", img)
 
 
 # 读取图片
