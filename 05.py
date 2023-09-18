@@ -1,7 +1,6 @@
 # 导入cv模块
 import cv2 as cv
 
-
 def face_detect_demo():
     gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     # 分类器
@@ -11,10 +10,10 @@ def face_detect_demo():
     for x, y, w, h in face:
         cv.rectangle(img, (x, y, w, h), color=(0, 0, 255), thickness=1)
     cv.imshow("result", img)
-
+    cv.imwrite("result_text1.jpg", img)
 
 # 读取图片
-img = cv.imread("text1.jpg")
+img = cv.imread("text21.jpg")
 face_detect_demo()
 
 # 等待(按q退出)
